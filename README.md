@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesús redondo</h1>
-<h3 align="center">Analista y desarrollador de software</h3>
+<h3 align="center">information systems analyst and developer</h3>
 
 - 🔭 I’m currently working on **Docker**
 
